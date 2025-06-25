@@ -24,7 +24,7 @@ Exports comprehensive account performance data to Google Sheets with automatic f
 - Account, campaign, and ad group level metrics
 - Customizable date ranges
 - Automatic chart generation
-- [View Script →](./scripts/performance-dashboard-exporter.js)
+- [View Script →](./performance-dashboard-exporter.js)
 
 ### 2. **Weekly Performance Email Report**
 Sends formatted HTML email reports with key performance metrics and insights.
