@@ -21,9 +21,8 @@ Our scripts help you automate the most time-consuming parts of Google Ads manage
 
 ### 1. **Performance Dashboard Exporter**
 Exports comprehensive account performance data to Google Sheets with automatic formatting.
-- Account, campaign, and ad group level metrics
+- Account, campaign, ad group and country level metrics
 - Customizable date ranges
-- Automatic chart generation
 - [View Script →](./performance-dashboard-exporter.js)
 
 ### 2. **Weekly Performance Email Report**
