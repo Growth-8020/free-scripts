@@ -36,21 +36,21 @@ Monitors daily spend and sends alerts when accounts are over/under pacing.
 - Real-time budget tracking
 - Customizable alert thresholds
 - Multi-account support
-- [View Script →](./scripts/budget-monitor.js)
+- [View Script →](COMING SOON)
 
 ### 4. **Search Query Report Builder**
 Automates search query analysis and exports to Google Sheets.
 - New query identification
 - Performance metrics by query
 - Negative keyword suggestions
-- [View Script →](./scripts/search-query-report.js)
+- [View Script →](COMING SOON)
 
 ### 5. **Multi-Account Performance Aggregator**
 Consolidates data from multiple accounts into a single dashboard.
 - MCC-level reporting
 - Account comparison metrics
 - Unified performance view
-- [View Script →](./scripts/multi-account-aggregator.js)
+- [View Script →](COMING SOON)
 
 ## 🛠️ Quick Start Guide
 
@@ -110,21 +110,6 @@ var DATE_RANGE = 'LAST_7_DAYS';
 var METRICS = ['Impressions', 'Clicks', 'Cost', 'Conversions', 'CostPerConversion'];
 ```
 
-## 📊 Example Output
-
-### Google Sheets Export
-![Sheet Example](https://via.placeholder.com/800x400?text=Example+Google+Sheets+Dashboard)
-
-### Email Report Preview
-```html
-Weekly Performance Summary
-━━━━━━━━━━━━━━━━━━━━━━━━
-📈 Total Spend: $12,456.78 (↑ 15.3%)
-🎯 Conversions: 234 (↑ 22.1%)
-💰 CPA: $53.23 (↓ 5.8%)
-🔥 CTR: 3.45% (↑ 0.23%)
-```
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
@@ -142,7 +127,7 @@ Weekly Performance Summary
 - Check that campaigns are not filtered out
 
 ### Getting Help
-- 📖 Check our [FAQ](./FAQ.md)
+- 📖 Check our [FAQ](COMING SOON)
 - 📧 Email us at hello@growth8020.com
 
 ## 📈 Success Stories
@@ -161,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 About Growth 8020
 
-We're a performance marketing agency specializing in Google Ads, data automation, and conversion optimization. We've managed over $XX million in ad spend and love sharing our tools with the community.
+We're a performance marketing agency specializing in Google Ads, data automation, and conversion optimization. We've managed over $150 million in ad spend and love sharing our tools with the community.
 
 ### Our Services
 - ✅ Google Ads Management
