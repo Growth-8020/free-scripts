@@ -25,12 +25,11 @@ Exports comprehensive account performance data to Google Sheets with automatic f
 - Customizable date ranges
 - [View Script →](./performance-dashboard-exporter.js)
 
-### 2. **Weekly Performance Email Report**
-Sends formatted HTML email reports with key performance metrics and insights.
-- Week-over-week comparisons
+### 2. **Daily Country Performance Email Report**
+Sends formatted HTML email report with key country level performance metrics and insights.
 - Top performers and underperformers
 - Budget pacing alerts
-- [View Script →](./scripts/weekly-email-report.js)
+- [View Script →](./daily-email-country-performance.js)
 
 ### 3. **Budget Monitor & Alerts**
 Monitors daily spend and sends alerts when accounts are over/under pacing.
