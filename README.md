@@ -38,12 +38,12 @@ Monitors daily spend and sends alerts when accounts are over/under pacing.
 - Multi-account support
 - [View Script →](COMING SOON)
 
-### 4. **Search Query Report Builder**
+### 4. **Daily Search Term Monitor**
 Automates search query analysis and exports to Google Sheets.
 - New query identification
 - Performance metrics by query
 - Negative keyword suggestions
-- [View Script →](COMING SOON)
+- [View Script →](./daily-search-term-monitor.js)
 
 ### 5. **Multi-Account Performance Aggregator**
 Consolidates data from multiple accounts into a single dashboard.
